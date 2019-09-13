@@ -13,7 +13,7 @@ repository          : miromat.github.io    # repository metadata on GitHub Pages
 ### Author Info ###
 author:
   name              : Michael Robertson
-  image             : https://bit.ly/2KCvgVJ
+  image             : https://scontent-syd2-1.xx.fbcdn.net/v/t1.0-9/19894882_10155425501019590_3392885932555560717_n.jpg?_nc_cat=103&_nc_oc=AQkgRqkEJPEHZd8eFBJ9vjkSPwFhLhHoF9zran-GRdU23a8gRkLY1CqZlyNdvSsaYb8&_nc_ht=scontent-syd2-1.xx&oh=f1a665d24581990d48c67dbeb0b5c0c4&oe=5DF4FC29
   behance           : your_username
 # dribbble          : your_username
   email             : username@domain.com
@@ -34,12 +34,12 @@ author:
 
 
 ### Pagination ###
-paginate: 6
-paginate_path: "/articles/page-:num/"
+#paginate: 6
+#paginate_path: "/articles/page-:num/"
 
 
 ### Posts Permalink ###
-permalink: articles/:title
+#permalink: articles/:title
 
 
 ### Collections ###
