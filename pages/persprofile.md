@@ -13,14 +13,14 @@ On this page you will find the results of three popular online tests I engaged i
 <p></p>
 
 ###Myers-Briggs Type Indicator Test (MBTI) - NERIS Analytics Limited
-Website link: https://www.16personalities.com/
+[Website link:](https://www.16personalities.com/)
 
-Result:
+#####Result:
 
 Personality type: “The Defender” (ISFJ-A)
 Role: Sentinel - Strategy: Confident Individualism
 
-My individual traits are as follows:
+#####My individual traits are as follows:
 
 Introverted 56% (44% Extroverted)
 Observant 56% (44% Intuitive)
@@ -28,7 +28,7 @@ Feeling 65% (35% Thinking)
 Judging 71% (29% Prospecting)
 Assertive 57% (43% Turbulent)
 
-Defenders are:
+#####Defenders are:
 
 •	Supportive
 •	Reliable and Patient
@@ -37,15 +37,15 @@ Defenders are:
 •	Loyal and Hard-Working
 •	Good Practical Skills
 
-Link to my result: https://www.16personalities.com/profiles/67dc3b591fc0c
+[Link to my result:](https://www.16personalities.com/profiles/67dc3b591fc0c)
 
 <p></p>
 <p></p>
 
 ###VARK Learning Style Test – VARK Learn Limited
-Website link: http://vark-learn.com
+[Website link:](http://vark-learn.com)
 
-Result:
+#####Result:
 
 Visual 6
 Aural 8
@@ -54,7 +54,7 @@ Kinesthetic 13
 
 My learning preference is “Mild Kinesthetic”.
 
-Some preferences include:
+#####Some preferences include:
 
 •	applications before theories
 •	own experiences over the experiences of others
@@ -64,15 +64,15 @@ Some preferences include:
 •	being valued for their experiences
 •	people who can apply their ideas
 
-Link to my result: http://vark-learn.com/strategies/kinesthetic-strategies/
+[Link to my result:](http://vark-learn.com/strategies/kinesthetic-strategies/)
 
 <p></p>
 <p></p>
 
 ###BigFive Personality Test - Tests and evaluation is gathered from ipip.ori.org, inventory is from Johnson's (2014) 120-item IPIP NEO-PI-R.
-Website link: https://bigfive-test.com/
+[Website link:](https://bigfive-test.com/)
 
-Result:
+#####Result:
 
 •	Exceptionally calm and composed. I do not react with intense emotions, even to situations that most people would describe as stressful.
 
@@ -84,7 +84,7 @@ Result:
 
 •	Set clear goals and pursue them with determination. People regard me as reliable and hard-working.
 
-Link to my result: https://bigfive-test.com/result/5d7ca021e108cb006217b026
+[Link to my result:](https://bigfive-test.com/result/5d7ca021e108cb006217b026)
 
 <p></p>
 <p></p>
