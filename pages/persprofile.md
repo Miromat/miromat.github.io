@@ -11,7 +11,7 @@ On this page you will find the results of three popular online tests I engaged i
 
 
 
-## **Myers-Briggs Type Indicator Test (MBTI) - NERIS Analytics Limited**
+#### **Myers-Briggs Type Indicator Test (MBTI) - NERIS Analytics Limited**
 [Website link: https://www.16personalities.com/](https://www.16personalities.com/)
 
 ##### **Result:**
@@ -40,7 +40,7 @@ Assertive 57% (43% Turbulent)
 
 
 
-### **VARK Learning Style Test – VARK Learn Limited**
+#### **VARK Learning Style Test – VARK Learn Limited**
 [Website link: http://vark-learn.com](http://vark-learn.com)
 
 ##### **Result:**
@@ -66,7 +66,7 @@ My learning preference is “Mild Kinesthetic”.
 
 
 
-### **BigFive Personality Test - Tests and evaluation is gathered from ipip.ori.org, inventory is from Johnson's (2014) 120-item IPIP NEO-PI-R.**
+#### **BigFive Personality Test - Tests and evaluation is gathered from ipip.ori.org, inventory is from Johnson's (2014) 120-item IPIP NEO-PI-R.**
 [Website link: https://bigfive-test.com/](https://bigfive-test.com/)
 
 ##### **Result:**
