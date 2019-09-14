@@ -12,15 +12,15 @@ On this page you will find the results of three popular online tests I engaged i
 <p></p>
 <p></p>
 
-###Myers-Briggs Type Indicator Test (MBTI) - NERIS Analytics Limited
+### Myers-Briggs Type Indicator Test (MBTI) - NERIS Analytics Limited
 [Website link:](https://www.16personalities.com/)
 
-#####Result:
+##### Result:
 
 Personality type: “The Defender” (ISFJ-A)
 Role: Sentinel - Strategy: Confident Individualism
 
-#####My individual traits are as follows:
+##### My individual traits are as follows:
 
 Introverted 56% (44% Extroverted)
 Observant 56% (44% Intuitive)
@@ -28,7 +28,7 @@ Feeling 65% (35% Thinking)
 Judging 71% (29% Prospecting)
 Assertive 57% (43% Turbulent)
 
-#####Defenders are:
+##### Defenders are:
 
 •	Supportive
 •	Reliable and Patient
@@ -42,10 +42,10 @@ Assertive 57% (43% Turbulent)
 <p></p>
 <p></p>
 
-###VARK Learning Style Test – VARK Learn Limited
+### VARK Learning Style Test – VARK Learn Limited
 [Website link:](http://vark-learn.com)
 
-#####Result:
+##### Result:
 
 Visual 6
 Aural 8
@@ -54,7 +54,7 @@ Kinesthetic 13
 
 My learning preference is “Mild Kinesthetic”.
 
-#####Some preferences include:
+##### Some preferences include:
 
 •	applications before theories
 •	own experiences over the experiences of others
@@ -69,10 +69,10 @@ My learning preference is “Mild Kinesthetic”.
 <p></p>
 <p></p>
 
-###BigFive Personality Test - Tests and evaluation is gathered from ipip.ori.org, inventory is from Johnson's (2014) 120-item IPIP NEO-PI-R.
+### BigFive Personality Test - Tests and evaluation is gathered from ipip.ori.org, inventory is from Johnson's (2014) 120-item IPIP NEO-PI-R.
 [Website link:](https://bigfive-test.com/)
 
-#####Result:
+##### Result:
 
 •	Exceptionally calm and composed. I do not react with intense emotions, even to situations that most people would describe as stressful.
 
