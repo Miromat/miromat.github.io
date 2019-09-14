@@ -9,6 +9,9 @@ weight: 4
 
 On this page you will find the results of three popular online tests I engaged in.
 
+<p></p>
+<p></p>
+
 <h5>Myers-Briggs Type Indicator Test (MBTI) - NERIS Analytics Limited
 Website link: https://www.16personalities.com/</h5>
 
@@ -36,10 +39,11 @@ Defenders are:
 
 Link to my result: https://www.16personalities.com/profiles/67dc3b591fc0c
 
+<p></p>
+<p></p>
 
-
-<h5>VARK Learning Style Test – VARK Learn Limited
-Website link: http://vark-learn.com</h5>
+<h5>VARK Learning Style Test – VARK Learn Limited</h5>
+Website link: http://vark-learn.com
 
 Result:
 
@@ -62,7 +66,8 @@ Some preferences include:
 
 Link to my result: http://vark-learn.com/strategies/kinesthetic-strategies/
 
-
+<p></p>
+<p></p>
 
 <h5>BigFive Personality Test - Tests and evaluation is gathered from ipip.ori.org, inventory is from Johnson's (2014) 120-item IPIP NEO-PI-R.
 Website link: https://bigfive-test.com/</h5>
@@ -81,6 +86,8 @@ Result:
 
 Link to my result: https://bigfive-test.com/result/5d7ca021e108cb006217b026
 
+<p></p>
+<p></p>
 
 The results of all three tests paint a similar picture. I am a person who stays calm and thinks clearly in stressful situations. I am slightly introverted and love helping others.
 I prefer a combination hands-on learning with the addition of visual and audible learning material. I agree with most of the test results. There are things I knew about myself and some that I did not. I find it very interesting that the Myers-Briggs sees my personality type in supporting roles, helping others. I have been working in IT Support roles for most of my professional career, enjoying it immensely not knowing why. The joy and satisfaction I get from helping others and solving their problems has now been explained to me.
