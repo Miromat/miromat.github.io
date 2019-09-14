@@ -80,3 +80,11 @@ Result:
 •	Set clear goals and pursue them with determination. People regard me as reliable and hard-working.
 
 Link to my result: https://bigfive-test.com/result/5d7ca021e108cb006217b026
+
+
+The results of all three tests paint a similar picture. I am a person who stays calm and thinks clearly in stressful situations. I am slightly introverted and love helping others.
+I prefer a combination hands-on learning with the addition of visual and audible learning material. I agree with most of the test results. There are things I knew about myself and some that I did not. I find it very interesting that the Myers-Briggs sees my personality type in supporting roles, helping others. I have been working in IT Support roles for most of my professional career, enjoying it immensely not knowing why. The joy and satisfaction I get from helping others and solving their problems has now been explained to me.
+
+I have never had issues in the past working in teams, it is the opposite, I actually enjoy it. Working with others is a great experience, especially when people come from different backgrounds and cultures. Different thinking and language barriers can be hard to overcome but, in the end, it will benefit the project and will help the team to achieve extraordinary things. Looking at my result, I do not think they will influence my behaviour in working with a team. I like teamwork. I can apply my ideas and help finish tasks. There is no reason to adjust or change.
+
+I can lead a project team if necessary but prefer to be “just” a member. This means when forming a team, I would need to find a group with someone who is comfortable and possibly has the experience to take the lead. I believe in my work there are members who will be able to do so through previous experience and their current positions.
