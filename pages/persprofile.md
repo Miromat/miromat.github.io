@@ -62,7 +62,7 @@ My learning preference is “Mild Kinesthetic”.
 •	being valued for their experiences
 •	people who can apply their ideas
 
-[Link to my result: http://vark-learn.com/strategies/kinesthetic-strategies/](http://vark-learn.com/strategies/kinesthetic-strategies/)  
+[Link to my result: http://vark-learn.com/strategies/kinesthetic-strategies/](http://vark-learn.com/strategies/kinesthetic-strategies/)
 
 
 
