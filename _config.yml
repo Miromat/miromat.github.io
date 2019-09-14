@@ -12,21 +12,21 @@ repository          : miromat.github.io    # repository metadata on GitHub Pages
 author:
   name              : Michael Robertson
   image             : https://scontent-syd2-1.xx.fbcdn.net/v/t1.0-9/19894882_10155425501019590_3392885932555560717_n.jpg?_nc_cat=103&_nc_oc=AQkgRqkEJPEHZd8eFBJ9vjkSPwFhLhHoF9zran-GRdU23a8gRkLY1CqZlyNdvSsaYb8&_nc_ht=scontent-syd2-1.xx&oh=f1a665d24581990d48c67dbeb0b5c0c4&oe=5DF4FC29
-  behance           : your_username
-# dribbble          : your_username
-  email             : username@domain.com
-  facebook          : your_username
-  github            : your_username
-# gitlab            : your_username
-# instagram         : your_username
-  linkedin          : your_username
-  medium            : your_username
+#  behance           : your_username
+#  dribbble          : your_username
+#  email             : username@domain.com
+#  facebook          : your_username
+#  github            : your_username
+#  gitlab            : your_username
+#  instagram         : your_username
+#  linkedin          : your_username
+#  medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
 # stackoverflow     : your_user_id
 # tumblr            : your_username.tumblr.com
 # twitch            : your_username
-  twitter           : your_username
+#  twitter           : your_username
 # vimeo             : your_username
 # youtube           : your_channel_name
 
