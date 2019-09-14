@@ -2,9 +2,7 @@
 title               : myProfile
 description         : >-                               # >- means to ignore newlines until "url:"
                       Hi, I am Michael and this is my profile page.
-                      Name: Michael Robertson
-                      Student ID: s3817321
-                      Email: s3817321@student.rmit.edu.au
+                  
 
 url                 : ""                               # base hostname & protocol for your site (e.g. http://example.com)
 baseurl             : ""                    # subpath of your site (e.g. /blog) [IMPORTANT: use "" if your are hosting at https://username.github.io directly]
