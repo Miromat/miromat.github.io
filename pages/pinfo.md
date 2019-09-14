@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Personal Information
-permalink: /pinfo/
+permalink: /Personal Information/
 weight: 1
 ---
 
