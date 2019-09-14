@@ -2,7 +2,7 @@
 layout: page
 title: Elements
 permalink: /elements/
-weight: 4
+weight:
 ---
 
 # **Elements**
@@ -85,11 +85,11 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 ```
 1. First ordered list item
 2. Another item
-   * Unordered sub-list. 
+   * Unordered sub-list.
 1. Actual numbers don't matter, just that it's a number
    1. Ordered sub-list
 4. And another item.  
-   
+
    Some text that should be aligned with the above item.
 
 * Unordered list can use asterisks
@@ -99,11 +99,11 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 
 1. First ordered list item
 2. Another item
-   * Unordered sub-list. 
+   * Unordered sub-list.
 1. Actual numbers don't matter, just that it's a number
    1. Ordered sub-list
 4. And another item.  
-   
+
    Some text that should be aligned with the above item.
 
 * Unordered list can use asterisks
@@ -333,12 +333,12 @@ print s;
 var s = "JavaScript syntax highlighting";
 alert(s);
 ```
- 
+
 ```python
 s = "Python syntax highlighting"
 print s
 ```
- 
+
 ```
 No language indicated, so no syntax highlighting.
 ```
@@ -355,7 +355,7 @@ print s
 ```
 
 ```
-No language indicated, so no syntax highlighting. 
+No language indicated, so no syntax highlighting.
 ```
 
 
@@ -398,7 +398,7 @@ Markdown | Less | Pretty
 
 Quote break.
 
-> This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote. 
+> This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote.
 ```
 
 > Blockquotes are very handy in email to emulate reply text.
@@ -406,12 +406,12 @@ Quote break.
 
 Quote break.
 
-> This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote. 
+> This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote.
 
 
 ## Inline HTML
 
-You can also use raw HTML in your Markdown, and it'll mostly work pretty well. 
+You can also use raw HTML in your Markdown, and it'll mostly work pretty well.
 
 ```
 <dl>
