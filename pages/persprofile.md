@@ -9,8 +9,8 @@ weight: 4
 
 On this page you will find the results of three popular online tests I engaged in.
 
-**<1> Myers-Briggs Type Indicator Test (MBTI) - NERIS Analytics Limited
-Website link: https://www.16personalities.com/**
+<h5>Myers-Briggs Type Indicator Test (MBTI) - NERIS Analytics Limited
+Website link: https://www.16personalities.com/</h5>
 
 Result:
 
@@ -38,8 +38,8 @@ Link to my result: https://www.16personalities.com/profiles/67dc3b591fc0c
 
 
 
-<2>	VARK Learning Style Test – VARK Learn Limited
-Website link: http://vark-learn.com
+<h5>VARK Learning Style Test – VARK Learn Limited
+Website link: http://vark-learn.com</h5>
 
 Result:
 
@@ -64,8 +64,8 @@ Link to my result: http://vark-learn.com/strategies/kinesthetic-strategies/
 
 
 
-<h4>BigFive Personality Test - Tests and evaluation is gathered from ipip.ori.org, inventory is from Johnson's (2014) 120-item IPIP NEO-PI-R.
-Website link: https://bigfive-test.com/</h4>
+<h5>BigFive Personality Test - Tests and evaluation is gathered from ipip.ori.org, inventory is from Johnson's (2014) 120-item IPIP NEO-PI-R.
+Website link: https://bigfive-test.com/</h5>
 
 Result:
 
