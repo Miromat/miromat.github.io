@@ -64,8 +64,8 @@ Link to my result: http://vark-learn.com/strategies/kinesthetic-strategies/
 
 
 
-<3>	BigFive Personality Test - Tests and evaluation is gathered from ipip.ori.org, inventory is from Johnson's (2014) 120-item IPIP NEO-PI-R.
-Website link: https://bigfive-test.com/
+<h4>BigFive Personality Test - Tests and evaluation is gathered from ipip.ori.org, inventory is from Johnson's (2014) 120-item IPIP NEO-PI-R.
+Website link: https://bigfive-test.com/</h4>
 
 Result:
 
