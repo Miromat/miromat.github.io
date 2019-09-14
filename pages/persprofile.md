@@ -9,8 +9,8 @@ weight: 4
 
 On this page you will find the results of three popular online tests I engaged in.
 
-<1> Myers-Briggs Type Indicator Test (MBTI) - NERIS Analytics Limited
-Website link: https://www.16personalities.com/
+**<1> Myers-Briggs Type Indicator Test (MBTI) - NERIS Analytics Limited
+Website link: https://www.16personalities.com/**
 
 Result:
 
