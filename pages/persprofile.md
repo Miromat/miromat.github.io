@@ -7,9 +7,7 @@ weight: 4
 
 # **Personal Profile**
 
-On this page you will find the results of three popular online tests I engaged in.  
-
-
+On this page you will find the results of three popular online tests I completed.  
 
 #### **Myers-Briggs Type Indicator Test (MBTI) - NERIS Analytics Limited**
 [Website link: https://www.16personalities.com/](https://www.16personalities.com/)
@@ -39,7 +37,6 @@ Assertive 57% (43% Turbulent)
 [Link to my result: https://www.16personalities.com/profiles/67dc3b591fc0c](https://www.16personalities.com/profiles/67dc3b591fc0c)  
 
 
-
 #### **VARK Learning Style Test – VARK Learn Limited**
 [Website link: http://vark-learn.com](http://vark-learn.com)
 
@@ -65,11 +62,10 @@ My learning preference is “Mild Kinesthetic”.
 [Link to my result: http://vark-learn.com/strategies/kinesthetic-strategies/](http://vark-learn.com/strategies/kinesthetic-strategies/)
 
 
-
 #### **BigFive Personality Test - Tests and evaluation is gathered from ipip.ori.org, inventory is from Johnson's (2014) 120-item IPIP NEO-PI-R.**
 [Website link: https://bigfive-test.com/](https://bigfive-test.com/)
 
-##### **Result:**
+##### **Results:**
 
 •	Exceptionally calm and composed. I do not react with intense emotions, even to situations that most people would describe as stressful.
 
@@ -85,8 +81,9 @@ My learning preference is “Mild Kinesthetic”.
 
 
 The results of all three tests paint a similar picture. I am a person who stays calm and thinks clearly in stressful situations. I am slightly introverted and love helping others.
-I prefer a combination hands-on learning with the addition of visual and audible learning material. I agree with most of the test results. There are things I knew about myself and some that I did not. I find it very interesting that the Myers-Briggs sees my personality type in supporting roles, helping others. I have been working in IT Support roles for most of my professional career, enjoying it immensely not knowing why. The joy and satisfaction I get from helping others and solving their problems has now been explained to me.
+I prefer a combination of hands-on learning with the addition of visual and aural learning material. I agree with most of the test results. There are things I knew about myself and some that I did not. I find it very interesting that the Myers-Briggs test sees my personality type in supporting roles and helping others. I have been working in IT Support roles for most of my professional career, enjoying it immensely. The joy and satisfaction I get from helping others and solving their problems has now been explained to me.
 
-I have never had issues in the past working in teams, it is the opposite, I actually enjoy it. Working with others is a great experience, especially when people come from different backgrounds and cultures. Different thinking and language barriers can be hard to overcome but, in the end, it will benefit the project and will help the team to achieve extraordinary things. Looking at my result, I do not think they will influence my behaviour in working with a team. I like teamwork. I can apply my ideas and help finish tasks. There is no reason to adjust or change.
+I have never had issues in the past working in teams, it is the opposite, I actually enjoy it. Working with others is a great experience, especially when people come from different backgrounds and cultures. Different thinking and language barriers can be hard to overcome but, in the end, it benefits the project and will help the team to achieve extraordinary things. Looking at my results, I think they will positively influence my behaviour in working with a team. I like teamwork. I can apply my ideas and help finish tasks. There is no reason to adjust or change as teamwork comes to me naturally.
 
-I could lead a project team if necessary but prefer to be “just” a member. This means when forming a team, I would need to find a group with someone who is comfortable and possibly has the experience to take the lead. I believe in my work there are members who will be able to do so through previous experience and their current positions.
+If required I could lead a project team but I would prefer to be an equally important member in a supporting role getting tasks done and offer technical knowledge and experience. This means when forming a team, I would ideally be looking to find a group with someone who has an interest in such a role and is happy is happy to take the lead.
+I believe in my group there are such members who would be suitable through previous experiences and their current positions.
