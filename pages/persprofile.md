@@ -20,11 +20,11 @@ Role: Sentinel - Strategy: Confident Individualism
 
 ##### **My individual traits are as follows:**
 
-Introverted 56% (44% Extroverted)
-Observant 56% (44% Intuitive)
-Feeling 65% (35% Thinking)
-Judging 71% (29% Prospecting)
-Assertive 57% (43% Turbulent)
+* Introverted 56% (44% Extroverted)
+* Observant 56% (44% Intuitive)
+* Feeling 65% (35% Thinking)
+* Judging 71% (29% Prospecting)
+* Assertive 57% (43% Turbulent)
 
 ##### **Defenders are:**
 
