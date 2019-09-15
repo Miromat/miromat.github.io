@@ -13,3 +13,6 @@ I was born and raised in Germany although my surname suggests otherwise. I have 
 
 
 ![alt text](https://raw.githubusercontent.com/Miromat/images/master/Screen2.png "Melbourne - Copyright - Michael Robertson")
+
+
+![alt text](https://raw.githubusercontent.com/Miromat/images/master/Screen2.png =250x "Melbourne - Copyright - Michael Robertson")
