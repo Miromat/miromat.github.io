@@ -7,14 +7,9 @@ weight: 3
 
 # **Ideal Job**
 
-Hi I am **{{ site.author.name }}**,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I am interested in positions within multi-national companies, managing and maintaining IT infrastructure and possibly leading small teams of on-site support staff and engineers, supporting several sites nationally or internationally.
 
-<div class="row">
-{% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
-{% include about/skills.html title="Other Skills" source=site.data.other-skills %}
-</div>
+Below is a link to a job (found on seek.com.au) I would be interested in:
 
-<div class="row">
-{% include about/timeline.html %}
-</div>
+Divisional IT Manager
+[https://www.seek.com.au/job/39865032](https://www.seek.com.au/job/39865032?type=standout&searchrequesttoken=fdee0bdd-a849-4ce0-8b80-f336e7994298)
