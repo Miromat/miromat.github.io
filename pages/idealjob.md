@@ -7,7 +7,8 @@ weight: 3
 
 # **Ideal Job**
 
-I am interested in positions within multi-national companies, managing and maintaining IT infrastructure and possibly leading small teams of on-site support staff and engineers, supporting several sites nationally or internationally.
+I am interested in positions within multi-national companies, managing and maintaining IT infrastructure and possibly
+leading small teams of on-site support staff and engineers, supporting several sites nationally or internationally.
 
 Below is a link to a job (found on seek.com.au):
 
