@@ -12,4 +12,8 @@ I am interested in positions within multi-national companies, managing and maint
 Below is a link to a job (found on seek.com.au) I would be interested in:
 
 Divisional IT Manager
+
 [https://www.seek.com.au/job/39865032](https://www.seek.com.au/job/39865032?type=standout&searchrequesttoken=fdee0bdd-a849-4ce0-8b80-f336e7994298)
+
+
+![alt text](https://github.com/Miromat/images/blob/master/Screen2.png "Building Image")
