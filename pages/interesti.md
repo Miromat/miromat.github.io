@@ -7,7 +7,7 @@ weight: 2
 
 # **Interest in IT**
 
-<img src="https://raw.githubusercontent.com/Miromat/miromat.github.io/master/assets/mbp.jpg" width="855">
+<img src="https://raw.githubusercontent.com/Miromat/miromat.github.io/master/assets/mbp.jpg" width="870">
 
 I dabbled with computers ever since I was a child. It all started when I got my first Commodore VIC-20 back in the early 80’s. My first real PC was an Intel 80286. I chose IT as my profession soon after I left school and in the past 20+ years it has taken me to work in different cities around the world.
 
