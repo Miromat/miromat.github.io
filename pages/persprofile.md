@@ -7,6 +7,8 @@ weight: 4
 
 # **Personal Profile**
 
+<img src="https://raw.githubusercontent.com/Miromat/miromat.github.io/master/assets/melb2.jpg" width="600">
+
 On this page you will find the results of three popular online tests I completed.
 
 
