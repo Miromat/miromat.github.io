@@ -9,9 +9,13 @@ weight: 4
 
 <img src="https://raw.githubusercontent.com/Miromat/miromat.github.io/master/assets/profile.jpg" width="870">
 
+<p>&nbsp;</p>
+
 On this page you will find the results of three popular online tests I completed.
-<dt></dt>
-<dt></dt>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
 #### **Myers-Briggs Type Indicator Test (MBTI) - NERIS Analytics Limited**
 [Website link: https://www.16personalities.com/](https://www.16personalities.com/)
 
@@ -39,7 +43,8 @@ Role: Sentinel - Strategy: Confident Individualism
 
 [Link to my result: https://www.16personalities.com/profiles/67dc3b591fc0c](https://www.16personalities.com/profiles/67dc3b591fc0c)
 
-
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 #### **VARK Learning Style Test – VARK Learn Limited**
 [Website link: http://vark-learn.com](http://vark-learn.com)
@@ -65,7 +70,8 @@ My learning preference is “Mild Kinesthetic”.
 
 [Link to my result: http://vark-learn.com/strategies/kinesthetic-strategies/](http://vark-learn.com/strategies/kinesthetic-strategies/)
 
-
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 #### **BigFive Personality Test - Tests and evaluation is gathered from ipip.ori.org, inventory is from Johnson's (2014) 120-item IPIP NEO-PI-R.**
 [Website link: https://bigfive-test.com/](https://bigfive-test.com/)
@@ -84,7 +90,7 @@ My learning preference is “Mild Kinesthetic”.
 
 [Link to my result: https://bigfive-test.com/result/5d7ca021e108cb006217b026](https://bigfive-test.com/result/5d7ca021e108cb006217b026)
 
-
+<p>&nbsp;</p>
 
 The results of all three tests paint a similar picture. I am a person who stays calm and thinks clearly in stressful situations. I am slightly introverted and love helping others.
 I prefer a combination of hands-on learning with the addition of visual and aural learning material. I agree with most of the test results. There are things I knew about myself and some that I did not. I find it very interesting that the Myers-Briggs test sees my personality type in supporting roles and helping others. I have been working in IT Support roles for most of my professional career, enjoying it immensely. The joy and satisfaction I get from helping others and solving their problems has now been explained to me.
