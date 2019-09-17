@@ -14,9 +14,10 @@ Below is a link to a job (found on seek.com.au):
 
 ##### **Divisional IT Manager**
 
+
 [https://www.seek.com.au/job/39865032](https://www.seek.com.au/job/39865032?type=standout&searchrequesttoken=fdee0bdd-a849-4ce0-8b80-f336e7994298)
 
-[Click here to see a screenshot of the advertisement instead](https://raw.githubusercontent.com/Miromat/images/master/Screen2.png)
+[Click here to see a screenshot of the advertisement](https://raw.githubusercontent.com/Miromat/images/master/Screen2.png)
 
 
 This company is seeking a Divisional IT Manager, someone to lead a small support team looking after the operational and infrastructure side of the business. One of the key activities is to transform the company to be more responsive and customer focussed. The role is based in Melbourne, Australia, but their 300+ users are located throughout Australia and New Zealand at over 17 sites.
