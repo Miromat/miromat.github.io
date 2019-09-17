@@ -9,11 +9,8 @@ weight: 4
 
 <img src="https://raw.githubusercontent.com/Miromat/miromat.github.io/master/assets/profile.jpg" width="870">
 
-<p>&nbsp;</p>
-
 On this page you will find the results of three popular online tests I completed.
 
-<p>&nbsp;</p>
 <p>&nbsp;</p>
 
 #### **Myers-Briggs Type Indicator Test (MBTI) - NERIS Analytics Limited**
