@@ -8,7 +8,6 @@ weight: 1
 # **Personal Information**
 
 <img src="https://raw.githubusercontent.com/Miromat/miromat.github.io/master/assets/melb2.jpg" width="870">
-<img src="https://raw.githubusercontent.com/Miromat/miromat.github.io/master/assets/mbp.jpg" width="870">
 
 ###### **Name: Michael Robertson | Student ID: s3817321 | Email: s3817321@student.rmit.edu.au**
 
