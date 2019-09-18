@@ -35,6 +35,7 @@ Personality type: “The Defender” (ISFJ-A) | Role: Sentinel - Strategy: Confi
 *	Imaginative and Observant
 *	Enthusiastic
 *	Loyal and Hard-Working
+  and have
 *	Good Practical Skills
 
 [Link to my result: https://www.16personalities.com/profiles/67dc3b591fc0c](https://www.16personalities.com/profiles/67dc3b591fc0c)
