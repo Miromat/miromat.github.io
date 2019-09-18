@@ -18,8 +18,7 @@ On this page you will find the results of three popular online tests I completed
 
 ##### **Result:**
 
-Personality type: “The Defender” (ISFJ-A)
-Role: Sentinel - Strategy: Confident Individualism
+Personality type: “The Defender” (ISFJ-A) | Role: Sentinel - Strategy: Confident Individualism
 
 ##### **My individual traits are as follows:**
 
