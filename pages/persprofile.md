@@ -18,7 +18,9 @@ On this page you will find the results of three popular online tests I completed
 
 ##### **Result:**
 
-Personality type: “The Defender” (ISFJ-A) | Role: Sentinel - Strategy: Confident Individualism
+Personality type: “The Defender” (ISFJ-A)
+
+Role: Sentinel - Strategy: Confident Individualism
 
 ##### **My individual traits are as follows:**
 
@@ -95,4 +97,4 @@ The results of all three tests paint a similar picture. I am a person who stays 
 
 I have never had issues in the past working in teams, it is the opposite, I actually enjoy it. Working with others is a great experience, especially when people come from different backgrounds and cultures. Different thinking and language barriers can be hard to overcome but, in the end, it benefits the project and will help the team to achieve extraordinary things. Looking at my results, I think they will positively influence my behaviour in working with a team. I like teamwork. I can apply my ideas and help finish tasks. There is no reason to adjust or change as teamwork comes to me naturally.
 
-If required I could lead a project team but I would prefer to be an equally important member in a supporting role getting tasks done and offer technical knowledge and experience. This means when forming a team, I would ideally be looking to find a group with someone who has an interest in such a role and is happy is happy to take the lead. I believe in my group there are such members who would be suitable through previous experiences and their current positions.
+If required I could lead a project team but I would prefer to be an equally important member in a supporting role getting tasks done and offer technical knowledge and experience. This means when forming a team, I would ideally be looking to find a group with someone who has an interest in such a role and is happy to take the lead. I believe in my group there are such members who would be suitable through previous experiences and their current positions.
