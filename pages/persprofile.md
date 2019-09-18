@@ -16,7 +16,7 @@ On this page you will find the results of three popular online tests I completed
 #### **Myers-Briggs Type Indicator Test (MBTI) - NERIS Analytics Limited**
 [Website link: https://www.16personalities.com/](https://www.16personalities.com/)
 
-##### **Results:**
+##### **Result:**
 
 Personality type: “The Defender” (ISFJ-A)
 Role: Sentinel - Strategy: Confident Individualism
@@ -46,7 +46,7 @@ Role: Sentinel - Strategy: Confident Individualism
 #### **VARK Learning Style Test – VARK Learn Limited**
 [Website link: http://vark-learn.com](http://vark-learn.com)
 
-##### **Results:**
+##### **Result:**
 
 * Visual 6
 * Aural 8
@@ -73,7 +73,7 @@ My learning preference is “Mild Kinesthetic”.
 #### **BigFive Personality Test - Tests and evaluation is gathered from ipip.ori.org, inventory is from Johnson's (2014) 120-item IPIP NEO-PI-R.**
 [Website link: https://bigfive-test.com/](https://bigfive-test.com/)
 
-##### **Results:**
+##### **Result:**
 
 *	Exceptionally calm and composed. I do not react with intense emotions, even to situations that most people would describe as stressful.
 
