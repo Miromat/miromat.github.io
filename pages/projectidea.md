@@ -43,7 +43,7 @@ Websites:
 
 Start Date:
 
-*	This is the date that the bot will stating searching from (calendar interface)
+*	This is the date that the bot will start searching from (calendar interface)
 
  Frequency:
 
