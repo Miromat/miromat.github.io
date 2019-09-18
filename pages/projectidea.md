@@ -18,6 +18,8 @@ My project idea is a personalised news feeder/search engine. Something like a we
 
 ##### **Motivation**
 
+My main motivation is the lack of time I have got in the morning to read news, especially foreign sports news. Working full time and studying full time leaves me with almost no spare time anymore to browse the Internet, to search all the different web sites and to check them for appropriate news, in my case football related articles. An application or website that could that for me would be the ideal solution in my current situation. It is something I have not tried before and I feel like it would be the perfect project to work on and to complete by the time I finish my studies.
+
 ##### **Description**
 
 ##### **Tools and Technologies**
