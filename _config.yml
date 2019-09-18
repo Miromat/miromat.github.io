@@ -3,7 +3,7 @@ title               : myProfile
 description         : >-                               # >- means to ignore newlines until "url:"
 
                       <p>Hi, I am Michael and this is myProfile.</p>
-                      <p>A simple web site about myself...</p>
+                      <p>A simple web site about myself.</p>
 
 
 url                 : ""                               # base hostname & protocol for your site (e.g. http://example.com)
