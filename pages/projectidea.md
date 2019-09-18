@@ -10,7 +10,7 @@ weight: 5
 <img src="https://raw.githubusercontent.com/Miromat/miromat.github.io/master/assets/projectidea.jpg" width="870">
 
 #### **BVB News Feeder**
-A personalised news feeder
+A personalised news mailer
 
 ##### **Overview**
 
