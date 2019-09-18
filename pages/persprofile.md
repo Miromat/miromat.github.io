@@ -89,6 +89,8 @@ My learning preference is “Mild Kinesthetic”.
 
 <p>&nbsp;</p>
 
+##### **Thoughts and Conclusions**
+
 The results of all three tests paint a similar picture. I am a person who stays calm and thinks clearly in stressful situations. I am slightly introverted and love helping others.
 I prefer a combination of hands-on learning with the addition of visual and aural learning material. I agree with most of the test results. There are things I knew about myself and some that I did not. I find it very interesting that the Myers-Briggs test sees my personality type in supporting roles and helping others. I have been working in IT Support roles for most of my professional career, enjoying it immensely. The joy and satisfaction I get from helping others and solving their problems has now been explained to me.
 
