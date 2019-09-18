@@ -7,7 +7,7 @@ weight: 5
 
 # **Project Idea**
 
-<img src="https://raw.githubusercontent.com/Miromat/miromat.github.io/master/assets/projectidea.jpg" width="870">
+<img src="https://raw.githubusercontent.com/Miromat/miromat.github.io/master/assets/bvb.jpg" width="870">
 
 #### **BVB News Feeder**
 A personalised news mailer
